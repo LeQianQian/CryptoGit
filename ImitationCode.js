@@ -125,6 +125,6 @@ function imitationCrypto(Imitation_A, Imitation_B, Key) {
 }
 
 var PrivacyKey = "0x112233abcabcabc00998877qweqweqwe112233abcabcabc00998877qweqweqwe"; //示例密钥
-const Imitation_A = Math.round(Math.random() * 25); //往后移几位，0~25，数字移位
+const Imitation_A = Math.round(Math.random() * 25); //往后移几位，0~25
 const Imitation_B = Math.round(Math.random() * 25);  //字母移位，0~25
 imitationCrypto(Imitation_A, Imitation_B, PrivacyKey);
