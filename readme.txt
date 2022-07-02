@@ -1,7 +1,1 @@
-Git is a version control system.
-Git is free software.
-
-Git is a distributed version control system.
-Git is free software..
-
-get something for this one.
+This repository documents all my cryptography source code from my study of Introduction to Cryptography, using Javascript as the development language. Of course I will also be using this repository to do a private key encryption capture the flag competition for the PlatON community's summer holiday event, so feel free to come round and crack these keys to get your own cryptocurrency.
